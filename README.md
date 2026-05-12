@@ -184,4 +184,4 @@ MIT License - Use freely for personal and commercial projects.
 
 ## Contributing
 
-Issues and pull requests welcome at your repository.
+Issues and pull requests welcome.
