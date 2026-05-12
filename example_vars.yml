@@ -13,3 +13,8 @@ ssh_public_key: "ssh-rsa AAAAB3NzaC1yc2E... your@email.com" # Your SSH public ke
 novnc_port: 6080
 vnc_display_num: 1
 vnc_resolution: "1920x1080"
+nginx_ssl_port: 443
+
+# Optional: Set a domain for Let's Encrypt cert (self-signed used otherwise)
+# domain: "vnc.example.com"
+# letsencrypt_email: ""
