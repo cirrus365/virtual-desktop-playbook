@@ -73,6 +73,8 @@
           - dbus-x11
           - firefox-esr
           - fail2ban
+          - kleopatra
+          - pinentry-qt
         state: present
         update_cache: yes
 
